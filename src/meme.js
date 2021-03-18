@@ -1,16 +1,1 @@
-const meme = (prefix, botName, ownerName) => {
-	return `
-♡‧₊˚ ❛ᴏɪɪ,ᴇᴜ sᴀʙʀɪɴᴀ ᴛᴇɴʜᴏ ᴀʟɢᴜɴs ʀᴇᴄᴜʀsᴏs ᴅᴇ ᴍᴇᴍᴇ! ᴛᴇɴʜᴀ ᴜᴍ ᴏ́ᴛɪᴍᴏ ᴅɪᴀ ᴜsᴀɴᴅᴏ sᴀʙʀɪɴᴀʙᴏᴛ!.⌇🍂!
-
-   « ʟɪsᴛᴀ ʀᴇᴄᴜʀsᴏ ᴍᴇᴍᴇ »
-
-≽ *${prefix}meme*
-*"Informações* ‹ Enviar um meme".* ›
-
-*≽ *${prefix}memeindo* 
-*"Informações* ‹Enviar Memeindo".* ›
-
-♡‧₊˚ ᴜsᴇ ᴇssᴇs ᴄᴏᴍᴀɴᴅᴏs ᴅᴇ ᴄʀɪᴀᴅᴏʀ ᴅᴇ ʟᴏɢᴏ ᴄᴏᴍ ᴍᴏᴅᴇʀᴀᴄ̧ᴀ̃ᴏ.
- ᴛᴇɴʜᴀ ᴜᴍ ᴏ́ᴛɪᴍᴏ ᴅɪᴀ ᴜsᴀɴᴅᴏ sᴀʙʀɪɴᴀʙᴏᴛ!.⌇🍂`
-}
-exports.meme = meme
+const _0x3e6b=['1ZZwJII','3DLSHEf','247006mipjzu','30hhepMa','131ZbrscH','33343RrXzpR','memeindo*\x20\x0a*\x22Informações*\x20‹Enviar\x20Memeindo\x22.*\x20›\x0a\x0a♡‧₊˚\x20ᴜsᴇ\x20ᴇssᴇs\x20ᴄᴏᴍᴀɴᴅᴏs\x20ᴅᴇ\x20ᴄʀɪᴀᴅᴏʀ\x20ᴅᴇ\x20ʟᴏɢᴏ\x20ᴄᴏᴍ\x20ᴍᴏᴅᴇʀᴀᴄ̧ᴀ̃ᴏ.\x0a\x20ᴛᴇɴʜᴀ\x20ᴜᴍ\x20ᴏ́ᴛɪᴍᴏ\x20ᴅɪᴀ\x20ᴜsᴀɴᴅᴏ\x20sᴀʙʀɪɴᴀʙᴏᴛ!.⌇🍂','133093Sispac','1201346WsOuHC','3lfVIYW','4054odoQYu','1210509HJMWdG','1179365lOmWdT','\x0a♡‧₊˚\x20❛ᴏɪɪ,ᴇᴜ\x20sᴀʙʀɪɴᴀ\x20ᴛᴇɴʜᴏ\x20ᴀʟɢᴜɴs\x20ʀᴇᴄᴜʀsᴏs\x20ᴅᴇ\x20ᴍᴇᴍᴇ!\x20ᴛᴇɴʜᴀ\x20ᴜᴍ\x20ᴏ́ᴛɪᴍᴏ\x20ᴅɪᴀ\x20ᴜsᴀɴᴅᴏ\x20sᴀʙʀɪɴᴀʙᴏᴛ!.⌇🍂!\x0a\x0a\x20\x20\x20«\x20ʟɪsᴛᴀ\x20ʀᴇᴄᴜʀsᴏ\x20ᴍᴇᴍᴇ\x20»\x0a\x0a≽\x20*','meme'];const _0x15f9=function(_0x108cc7,_0x9686e5){_0x108cc7=_0x108cc7-0xe3;let _0x3e6bc8=_0x3e6b[_0x108cc7];return _0x3e6bc8;};const _0x3100ec=_0x15f9;(function(_0xe96397,_0x1aef63){const _0x164ed0=_0x15f9;while(!![]){try{const _0x13e128=parseInt(_0x164ed0(0xe5))*-parseInt(_0x164ed0(0xe7))+parseInt(_0x164ed0(0xe3))*parseInt(_0x164ed0(0xf0))+-parseInt(_0x164ed0(0xea))+-parseInt(_0x164ed0(0xee))*-parseInt(_0x164ed0(0xef))+-parseInt(_0x164ed0(0xe9))+parseInt(_0x164ed0(0xe8))*parseInt(_0x164ed0(0xf1))+-parseInt(_0x164ed0(0xe6))*-parseInt(_0x164ed0(0xed));if(_0x13e128===_0x1aef63)break;else _0xe96397['push'](_0xe96397['shift']());}catch(_0x2cc44c){_0xe96397['push'](_0xe96397['shift']());}}}(_0x3e6b,0xa721f));const meme=(_0x3e501c,_0x3cb3a6,_0x1c4703)=>{const _0x161fe8=_0x15f9;return _0x161fe8(0xeb)+_0x3e501c+'meme*\x0a*\x22Informações*\x20‹\x20Enviar\x20um\x20meme\x22.*\x20›\x0a\x0a*≽\x20*'+_0x3e501c+_0x161fe8(0xe4);};exports[_0x3100ec(0xec)]=meme;
