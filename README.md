@@ -5,26 +5,26 @@
 <a href="#"><img title="SabrinaBOT" src="https://img.shields.io/badge/SabrinaBOT-pink?colorB=FF33D4&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DevGaaab"><img title="Criador" src="https://img.shields.io/badge/Author-Dev Gaaab-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/DevGaaab/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT"><img src="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT/badge" alt="CodeFactor" /></a>
+<a href="#"><img title="MANTIDO" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+## Clone Este Repositório!
 
-```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+```
+> git clone https://github.com/DevGaaab/SabrinaBOT
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Instale as dependências:
+Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
+você acabou de clonar !!
 
 ```bash
 > cd termux-wabot
