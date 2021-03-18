@@ -156,13 +156,8 @@ você acabou de clonar !!
 |       ✨        |   Level Gay                     |
 |       ✨        |   Level Baianor                      |
 
-## Special Thanks to
+## Agradecimentos
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-### Donate
-* <a href="https://saweria.co/donate/DevGaaab"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/DevGaaab"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-
+## Grupo no whatsapp
+* <a href="https://chat.whatsapp.com/GLgii3nks3wBKo0MOlYLdu"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
