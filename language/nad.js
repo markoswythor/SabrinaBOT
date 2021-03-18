@@ -1,4 +1,1 @@
-
-exports.banido = () => {
-	return`*Detectamos banimento em seu número no sistema da Sabrina, não conseguirá utilizar meus recursos até o desbanimento.*`
-}
+var _0x316c=['231025cuiSnV','33568wmejBG','400321ujxuhi','1666kUacwy','1029086STScSv','269702PjyQjc','494069bjcUun','295XeGyaH','banido'];var _0x67b4=function(_0x3e168a,_0x7403dc){_0x3e168a=_0x3e168a-0x1a6;var _0x316c48=_0x316c[_0x3e168a];return _0x316c48;};var _0x443c25=_0x67b4;(function(_0x2c847a,_0x53af16){var _0x58bece=_0x67b4;while(!![]){try{var _0x54801e=-parseInt(_0x58bece(0x1ab))+parseInt(_0x58bece(0x1a6))+-parseInt(_0x58bece(0x1a9))+parseInt(_0x58bece(0x1ae))+-parseInt(_0x58bece(0x1aa))+parseInt(_0x58bece(0x1ad))+-parseInt(_0x58bece(0x1a7))*parseInt(_0x58bece(0x1ac));if(_0x54801e===_0x53af16)break;else _0x2c847a['push'](_0x2c847a['shift']());}catch(_0x5b42c4){_0x2c847a['push'](_0x2c847a['shift']());}}}(_0x316c,0x9b639),exports[_0x443c25(0x1a8)]=()=>{return'*Detectamos\x20banimento\x20em\x20seu\x20número\x20no\x20sistema\x20da\x20Sabrina,\x20não\x20conseguirá\x20utilizar\x20meus\x20recursos\x20até\x20o\x20desbanimento.*';});
