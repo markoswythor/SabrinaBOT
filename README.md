@@ -26,34 +26,34 @@
 Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
 você acabou de clonar !!
 
-```bash
-> cd termux-wabot
+```
+> cd SabrinaBOT
 > bash install.sh
 ```
 
-### Usage
+### Como iniciar a Sabrina?
 ```bash
 > npm start
 ```
 
-### Settings
-```json
+### Configurações
+```
 {
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
-	"apiKey": "Your ApiKey here"
+	"prefix": "#",
+	"ownerNumber": "55xxxx",
+	"apiKey": "Sua ApiKey aqui"
 }
 ```
 
-## Features
+## Recursos Da Sabrina:
 
-| Sticker Creator |                Feature           |
+| Criador de Figurinhas |                Recurso           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+|       ✅       | Enviar foto com legenda          |
+|       ✅       | Marcar Uma Foto                    |
+|       ✅       | Marque Um Vídeo/Gif             |
+|       ✅       | Enviar vídeo ou GIF com legenda   |
+|       ✅       | Marque um adesivo (Converter Figurinha em Foto) |
 
 | Other  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
