@@ -49,37 +49,37 @@ você acabou de clonar !!
 
 | Criador de Figurinhas |                Recurso           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Enviar foto com legenda          |
-|       ✅       | Marcar Uma Foto                    |
-|       ✅       | Marque Um Vídeo/Gif             |
-|       ✅       | Enviar vídeo ou GIF com legenda   |
-|       ✅       | Marque um adesivo (Converter Figurinha em Foto) |
+|       ✨       | Enviar foto com legenda          |
+|       ✨       | Marcar Uma Foto                    |
+|       ✨       | Marque Um Vídeo/Gif             |
+|       ✨       | Enviar vídeo ou GIF com legenda   |
+|       ✨       | Marque um adesivo (Converter Figurinha em Foto) |
 
 | Other  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
+|       ✨        |   Get a random meme             |
+|       ✨        |   Text to speech                |
+|       ✨        |   Writing feature 				|
+|       ✨        |   What Anime Is This 			|
+|       ✨        |   Url2Img ( Screeenshot Web )   |
+|       ✨        |   Simsimi		                |
 
 | Group  |                     Feature               |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
+|       ✨        |   Tagall/Mentionall member       |
+|       ✨        |   Tagall2/Mentionall member       |
+|       ✨        |   Tagall3/Mentionall member       |
+|       ✨        |   Kick Member Group	             |
+|       ✨        |   Add Member Group	             |
+|       ✨        |   Get List Admins Group          |
+|       ✨        |   Get Group Invite Link          |
+|       ✨        |   Bot leave the group            |
 
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
+|       ✨        |   Set Prefix                     |
+|       ✨        |   Broadcast                      |
+|       ✨        |   Clear All Chats                |
 
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
