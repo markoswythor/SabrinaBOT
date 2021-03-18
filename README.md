@@ -5,7 +5,7 @@
 <a href="#"><img title="SabrinaBOT" src="https://img.shields.io/badge/SabrinaBOT-pink?colorB=FF33D4&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DevGaaab"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Gaaab-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DevGaaab"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Gabriel-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DevGaaab/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/DevGaaab?color=blue&style=flat-square"></a>
