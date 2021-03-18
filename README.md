@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/DevGaaab/followers"><img title="Followers" src="https://img.shields.io/github/followers/DevGaaab?color=blue&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DevGaaab/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DevGaaab/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DevGaaab/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DevGaaab/SabrinaBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DevGaaab/SabrinaBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DevGaaab/SabrinaBOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT"><img src="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MANTIDO" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
