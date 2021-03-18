@@ -8,10 +8,10 @@
 <a href="https://github.com/DevGaaab"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Gaaab-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DevGaaab/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/followers"><img title="Followers" src="https://img.shields.io/github/followers/DevGaaab?color=blue&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DevGaaab/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DevGaaab/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DevGaaab/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT"><img src="https://www.codefactor.io/repository/github/DevGaaab/SabrinaBOT/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MANTIDO" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
@@ -32,7 +32,7 @@ você acabou de clonar !!
 ```
 
 ### Como iniciar a Sabrina?
-```bash
+```
 > npm start
 ```
 
@@ -47,39 +47,114 @@ você acabou de clonar !!
 
 ## Recursos Da Sabrina:
 
-| Criador de Figurinhas |                Recurso           |
+| Criador de Figurinhas |                ✅✨           |
 | :-----------: | :--------------------------------: |
 |       ✨       | Enviar foto com legenda          |
 |       ✨       | Marcar Uma Foto                    |
 |       ✨       | Marque Um Vídeo/Gif             |
 |       ✨       | Enviar vídeo ou GIF com legenda   |
 |       ✨       | Marque um adesivo (Converter Figurinha em Foto) |
+|       ✨        |   Criar Figurinha Texto            |
+|       ✨        |   Criar Figurinha Piscando (attp)                |
+|       ✨        |   Efeito Vidro                |
+|       ✨        |   Efeito Triggered                |
+|       ✨        |   Efeito Wasted                |
+|       ✨        |   Efeito Gay                |
+|       ✨        |   Adicionar Sticker                |
+|       ✨        |   Lista De stickers Adicionadas                |
+|       ✨        |   Obter Sticker                |
 
-| Other  |                     Feature                     |
+| Outro  |                     ✅✨                     |
 | :------------: | :---------------------------------------------: |
-|       ✨        |   Get a random meme             |
-|       ✨        |   Text to speech                |
-|       ✨        |   Writing feature 				|
-|       ✨        |   What Anime Is This 			|
-|       ✨        |   Url2Img ( Screeenshot Web )   |
+|       ✨        |   Obtenha um meme aleatório             |
+|       ✨        |   Converter Texto em fala                |
+|       ✨        |   Converter Texto Para Caderno 				|
+|       ✨        |   Qual é o anime? 			|
+|       ✨        |   print de sites ( Captura de tela da web )   |
 |       ✨        |   Simsimi		                |
 
-| Group  |                     Feature               |
+| Grupo  |                     ✅✨               |
 | :-----------: | :--------------------------------: |
-|       ✨        |   Tagall/Mentionall member       |
-|       ✨        |   Tagall2/Mentionall member       |
-|       ✨        |   Tagall3/Mentionall member       |
-|       ✨        |   Kick Member Group	             |
-|       ✨        |   Add Member Group	             |
-|       ✨        |   Get List Admins Group          |
-|       ✨        |   Get Group Invite Link          |
-|       ✨        |   Bot leave the group            |
+|       ✨        |   Marcar Todos       |
+|       ✨        |   Marcar Todos 2       |
+|       ✨        |   Marcar Todos 2        |
+|       ✨        |   Remover Membros	             |
+|       ✨        |   Adicionar Membros	             |
+|       ✨        |   Obter Lista de admins          |
+|       ✨        |   Obter link de convite de grupo          |
+|       ✨        |   Sabrina sair            |
+|       ✨        |   Fechar Grupo            |
+|       ✨        |   Abrir Grupo            |
+|       ✨        |   Enviar Admin Para um membro            |
+|       ✨        |   Retirar Admin            |
+|       ✨        |   Anti link            |
+|       ✨        |   Anti Números fakes            |
+|       ✨        |   Simih            |
+|       ✨        |   Nsfw            |
+|       ✨        |   Bem vindo            |
+|       ✨        |   Deletar Mensagens            |
+|       ✨        |   Marcar você (@)            |
+|       ✨        |   Mostrar Criador do Grupo            |
 
-| Owner Bot  |                     Feature           |
+| Apenas Dono Sabrina  |                     ✅✨           |
 | :-----------: | :--------------------------------: |
-|       ✨        |   Set Prefix                     |
-|       ✨        |   Broadcast                      |
-|       ✨        |   Clear All Chats                |
+|       ✨        |   Mudar Prefixo                     |
+|       ✨        |   Transmissão                      |
+|       ✨        |   Transmissão Grupo                      |
+|       ✨        |   Limpar todos os chats                |
+|       ✨        |   Bloquear Usuários                |
+|       ✨        |   Desbloquear usuários                |
+|       ✨        |   Clonar Usuários                |
+|       ✨        |   Manutenção                |
+
+| Efeito de voz  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Fat                     |
+|       ✨        |   Esquilo                      |
+|       ✨        |   Estouro                      |
+|       ✨        |   Slow                |
+|       ✨        |   Toptt                |
+
+
+| Consultas  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   cep                     |
+|       ✨        |   Cnpj                      |
+|       ✨        |   gcpf                      |
+|       ✨        |   iplog                |
+|       ✨        |   Placa                |
+
+| +18  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Hentai                     |
+|       ✨        |   Atriz                      |
+|       ✨        |   Figurinha Pornografia                      |
+|       ✨        |   Figurinha Hentai                |
+
+| Baixar  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Baixar Vídeos do YouTube                     |
+|       ✨        |   Baixar Vídeos do Smule                      |
+|       ✨        |   Baixar Vídeos do Snack                      |
+|       ✨        |   Baixar Postagens do Instagram                |
+|       ✨        |   Baixar Filmes                |
+|       ✨        |   Sportify                |
+|       ✨        |   Baixar Postagens do Tiktok                |
+|       ✨        |   Baixar Postagens do Pinterest                |
+
+| Música  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Baixar Músicas                     |
+|       ✨        |   Letra de músicas                      |
+
+| memes  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Meme                     |
+
+| Porcentagem  |                     ✅✨           |
+| :-----------: | :--------------------------------: |
+|       ✨        |   Level Gay                     |
+|       ✨        |   Level Baianor                      |
 
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -88,6 +163,6 @@ você acabou de clonar !!
 * <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
-* <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/mhankbarbar"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+* <a href="https://saweria.co/donate/DevGaaab"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+* <a href="https://paypal.me/DevGaaab"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
